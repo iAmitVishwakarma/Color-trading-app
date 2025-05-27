@@ -4,6 +4,9 @@
 
 A **React.js-based** front-end application that allows users to trade colors dynamically. This sleek and interactive UI offers an engaging way to explore different color palettes and swaps. No backend required! 🚀  
 
+## 🔗 Live Demo  
+Experience the app live here: [Color Trading App](https://color-trading-app.vercel.app/) 🚀  
+
 ## 📌 Features  
 ✅ **Intuitive Interface** – Clean design with seamless interactions.  
 ✅ **Color Swapping** – Trade colors effortlessly within the application.  
